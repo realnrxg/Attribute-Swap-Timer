@@ -38,6 +38,6 @@ PERFECT!
 (The "PERFECT!" text will be bright green, with other ratings in yellow, orange, or red.)
 
 ## Requirements
-- **Minecraft**: 1.21.10
+- **Minecraft**: 1.21.11 
 - **Mod Loader**: Fabric (0.18.0+)
 - **API**: Fabric API
