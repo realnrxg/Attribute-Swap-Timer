@@ -4,7 +4,7 @@ Tired of guessing how good your breach swaps are? Want to master the 1-tick timi
 
 **Attribute Swap Timer** is a simple, client-side HUD mod that gives you instant, on-screen feedback for your post-attack attribute swaps. Stop guessing and start perfecting your PvP timing!
 
-Built for Fabric 1.21.10, this mod is lightweight and works on any server.
+Ported for Fabric 1.21.11, this mod is lightweight and works on any server.
 
 ## Features
 
